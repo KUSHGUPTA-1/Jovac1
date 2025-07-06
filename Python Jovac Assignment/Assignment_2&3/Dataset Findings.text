@@ -1,0 +1,13 @@
+# EDA Findings on Iris Dataset:
+
+1. **Dataset Summary**:
+   (i) 150 samples with 5 columns: 'sepal_length', 'sepal_width', 'petal_length', 'petal_width', and 'species'.
+   (ii) No missing values found.
+   
+2. **Species Breakdown**:
+   (i) 3 species: 'setosa', 'versicolor', 'virginica' — each with 50 samples.
+
+3. **Insights from Visualizations**:
+   (i) 'petal_length' and 'petal_width' are highly effective at distinguishing species.
+   (ii) 'setosa' has distinctly smaller petal features.
+   (iii) Strong correlation between 'petal_length' and 'petal_width' (approx 0.96).
